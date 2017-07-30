@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
-import GameOfLife from './GameOfLife'
+import GameOfLife from './GameOfLife/GameOfLife'
 
 class App extends Component {
   render() {
