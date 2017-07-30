@@ -5,7 +5,7 @@ import {getNewBoard} from './gameLogic'
 class GameOfLife extends Component {
 	render() {
 		return (
-			<div> <Board size={50}/></div>
+			<div> <Board size={30}/></div>
 			);
 	}
 }
