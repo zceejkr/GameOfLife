@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import {getNewBoard, createBoard} from './gameLogic';
 
-class Board extends React.Component {
+class Board extends Component {
 
 	constructor(props) {
 		super();
